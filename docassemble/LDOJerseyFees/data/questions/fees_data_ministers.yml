@@ -1,0 +1,18 @@
+---
+code: |
+  MinisterTitles = [
+    "Chief Minister",
+    "Minister for Children and Education",
+    "Minister for the Environment",
+    "Minister for External Relations",
+    "Minister for Health and Social Services",
+    "Minister for Housing and Communities",
+    "Minister for Infrastructure",
+    "Minister for International Development",
+    "Minister for Justice and Home Affairs",
+    "Minister for Social Security",
+    "Minister for Sustainable Economic Development",
+    "Minister for Treasury and Resources",
+    "Other"
+  ]
+---
