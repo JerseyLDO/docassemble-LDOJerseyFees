@@ -1,0 +1,27 @@
+[build-system]
+requires = [
+    "setuptools==80.9.0",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "docassemble.LDOJerseyFees"
+version = "0.0.5"
+description = "An application for creating instructions to amend fees Orders"
+readme = "README.md"
+authors = [
+    { name = "Kate Hannah", email = "K.Hannah@gov.je" },
+]
+dependencies = []
+license = "MIT"
+license-files = [
+    "LICENSE",
+]
+
+[project.urls]
+Homepage = "https://docassemble.org"
+
+[tool.setuptools.packages.find]
+where = [
+    ".",
+]
