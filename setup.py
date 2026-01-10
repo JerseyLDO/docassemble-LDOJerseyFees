@@ -44,7 +44,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
     return out
 
 setup(name='docassemble.LDOJerseyFees',
-      version='0.0.6',
+      version='0.0.7',
       description=('An application for creating instructions to amend fees Orders'),
       long_description='# docassemble.LDOJerseyFees\r\n\r\nAn application for preparing instructions to give to the LDO for drafting amendments to fees Orders. This app is in use by departments.\r\n\r\n## Author\r\n\r\nKate Hannah, k.hannah@gov.je\r\nZoe Rillstone, z.rillstone@gov.je\r\n\r\n',
       long_description_content_type='text/markdown',

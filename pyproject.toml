@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "docassemble.LDOJerseyFees"
-version = "0.0.6"
+version = "0.0.7"
 description = "An application for creating instructions to amend fees Orders"
 readme = "README.md"
 authors = [
